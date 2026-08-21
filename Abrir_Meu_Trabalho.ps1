@@ -24,8 +24,8 @@ $topH = [int]($H * 0.22)
 $bottomH = $H - $topH
 
 $desktop = [Environment]::GetFolderPath("Desktop")
-$folder = "C:\Users\Joao Castro\Desktop\JOAO\Portarias\Sarh"
-$url = "https://webmail.trescoracoes.mg.gov.br/SOGo/so/arquivo.sarh@trescoracoes.mg.gov.br/Mail/view#!/Mail/0/INBOX"
+$folder = "C:"
+$url = "https://gmail.com.br"
 
 function Move-Window {
     param(
