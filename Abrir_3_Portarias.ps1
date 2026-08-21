@@ -13,9 +13,9 @@ public static class Win32 {
 Add-Type -AssemblyName System.Windows.Forms
 
 $paths = @(
-    "Y:\Atos e Documentos - Gabinete\Portarias Sarh assinadas e Publicadas\Portarias Sarh 2026 assinadas",
-    "C:\Users\Joao Castro\Desktop\JOAO\Portarias\Sarh",
-    "Z:\2026\PORTARIAS SARH 2026"
+    "Y:\",
+    "C:",
+    "Z:"
 )
 
 # Abre as três pastas em janelas separadas.
