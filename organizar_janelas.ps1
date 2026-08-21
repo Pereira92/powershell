@@ -37,8 +37,8 @@ Add-Type -AssemblyName System.Windows.Forms
 # CAMINHOS
 # ============================================================
 
-$pastaDocumentos = "C:\Users\Joao Castro\Documents\Scanned Documents"
-$pastaJoao       = "C:\Users\Joao Castro\Desktop\JOAO"
+$pastaDocumentos = "C:"
+$pastaJoao       = "C:"
 
 # ============================================================
 # ABRIR AS DUAS PASTAS
